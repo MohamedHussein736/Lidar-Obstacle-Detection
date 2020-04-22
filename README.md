@@ -1,5 +1,9 @@
 # Lidar Obstacle Detection
 
+https://confirm.udacity.com/9R4N6A4H
+
+![SensorFusion_Certificate](sensorFusion_certificate.png)
+
 ```diff
  The main goal of the project is to filter, segment, and cluster  
  real point cloud data to detect obstacles in a driving environment.
