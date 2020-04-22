@@ -19,8 +19,6 @@
  Functions were implemented for segmentation and clustering. The pipeline details are as the following.
 ```
 
-![ezgif com-video-to-gif](https://user-images.githubusercontent.com/30608533/65621434-65750100-dfcc-11e9-864f-b9a93de1b16e.gif)
-
 ## PipeLine 
 Following are the steps for the pipeline
 - Read a PCD file.
@@ -56,7 +54,7 @@ The filtered output is segmented. Segmentation divides the scene into plane and 
 ## Bounding Box 
  For each of the cluster, a bounding box is fitted. To fit a box min and max coordinates of a cluster are used. Using renderbox function boxes are drawn. 
  
-
+![ezgif com-video-to-gif](https://user-images.githubusercontent.com/30608533/65621434-65750100-dfcc-11e9-864f-b9a93de1b16e.gif)
 
 ## Installation
 
