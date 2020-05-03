@@ -67,7 +67,7 @@ The filtered output is segmented. Segmentation divides the scene into plane and 
 ```bash
 $> sudo apt install libpcl-dev
 $> cd ~
-$> git clone https://github.com/enginBozkurt/LidarObstacleDetection.git
+$> https://github.com/MohamedHussein736/Lidar-Obstacle-Detection
 $> cd LidarObstacleDetection
 $> mkdir build && cd build
 $> cmake ..
